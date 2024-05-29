@@ -1,0 +1,16 @@
+[submodule "src/ament_cmake"]
+	path = src/ament_cmake
+	url = https://github.com/rolker/ament_cmake.git
+	branch = add_extend_existing_python
+[submodule "src/audio_common"]
+	path = src/audio_common
+	url = https://github.com/rolker/audio_common.git
+	branch = add_extend_existing
+[submodule "src/px4_msgs"]
+	path = src/px4_msgs
+	url = https://github.com/PX4/px4_msgs
+	branch = main
+[submodule "src/vicon_msgs"]
+	path = src/vicon_msgs
+	url = https://github.com/atarbabgei/vicon_msgs
+	branch = main
